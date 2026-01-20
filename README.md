@@ -27,13 +27,17 @@ Our project is about Data Visualization of Aadhaar Enrolment and Updates. We hav
 Data Cleaning and Preprocessing:
 
   🔹Checked for missing values, duplicates, and inconsistent district/state names.
+  
   🔹Standardized column names and data types.
+  
   🔹Aggregated data by district, state, age, and gender for trend analysis.
 
 Transformations and Analysis:
 
   🔹Calculated total enrolments and updates per district/state.
+  
   🔹Computed age-wise and gender-wise distribution of enrolment and update activity.
+  
   🔹Identified districts with unusually high or low updates (potential anomalies).
 
 Step's: 
